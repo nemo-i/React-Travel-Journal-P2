@@ -1,6 +1,7 @@
 # React Travel Journal Project #2
 
 This project is a solo project created after enrolling in Scrimba’s free React course.
+You can view the live website [here](https://zesty-melba-2114f6.netlify.app/).
 
 ![235](https://github.com/nemo-i/React-Travel-Journal-P2/assets/133984357/9185c18b-907e-4371-ac59-eb5fd4d7a1dd)
 
